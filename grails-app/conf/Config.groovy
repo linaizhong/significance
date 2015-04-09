@@ -153,8 +153,7 @@ environments {
         }
     }
     development {
-        grails.host = "152.83.206.54"
-        //grails.host = "localhost"
+        grails.host = "localhost"
         //grails.host = "woodfired.ala.org.au"
         grails.serverURL = "http://${grails.host}:8080/${appName}"
 

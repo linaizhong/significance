@@ -1,9 +1,10 @@
+/*
 dataSource {
     pooled = true
     driverClassName = "org.postgresql.Driver"
     dialect = org.hibernate.dialect.PostgreSQLDialect
     username = "lin1a6"
-    password = "Aizhong2"
+    password = "********"
     logSql = false
 }
 hibernate {
@@ -52,3 +53,4 @@ environments {
         }
     }
 }
+*/

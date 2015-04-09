@@ -32,7 +32,6 @@ grails.project.dependency.resolution = {
         compile 'org.jasig.cas.client:cas-client-core:3.1.12'
 
         runtime  'org.postgresql:postgresql:9.3-1100-jdbc4'
-        //runtime  'org.postgresql:postgresql:9.3-1102-jdbc41'
     }
 
     plugins {
